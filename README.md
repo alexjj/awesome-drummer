@@ -4,7 +4,6 @@
 Drummer is a web scripting environment built around outlining and JavaScript. A common use is blogging. Built by [Dave Winer](http://davewiner.com/).
 
 ## Contents
-- [Contents](#contents)
 - [Official](#official)
 - [Blogging](#blogging)
 - [Formatting](#formatting)
@@ -25,7 +24,6 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 ## Blogging
 
 - [Getting started](https://www.amitgawande.com/2021/10/16/getting-started-blogging.html) - Walkthrough of outliners and blogging with drummer.
-- Style guide from change log
 - [URL from other nodes](https://gist.github.com/am1t/c1a1d37af7cd33aedc9e1263888a70e0) - Drumkit script to get the real URL to the highlighted node, [more details](https://www.amitgawande.com/2021/10/23/getting-post-url.html). 
 - [Cross-posting to Micro.blog](https://www.manton.org/2021/10/18/drummer-and-microblog.html) - Post to micro.blog from drummer.
 - [Drummer with Gatsby](http://oldschool.scripting.com/ScottHansonDE/2021/10/21/100522.html?title=connectingDrummerToGatsby) - Generate a blog with Gatsby from drummer created opml.
