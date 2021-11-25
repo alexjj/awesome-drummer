@@ -3,7 +3,7 @@
 
 Drummer is a web scripting environment built around outlining and JavaScript. A common use is blogging. Built by [Dave Winer](http://davewiner.com/).
 
-## Contents
+## Contents <!-- omit in toc -->
 - [Official](#official)
 - [Blogging](#blogging)
 - [Formatting](#formatting)
@@ -35,6 +35,7 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 
 - [Style guide #1](http://scripting.com/drummer/blog/2021/10/17/031157.html?title=styleNoteSingularItemsBeforeTitledItems) - Put singular items before titled items.
 - [Style guide #2](http://scripting.com/drummer/blog/2021/10/17/031051.html?title=styleNoteLinksInBlogPostTitles) - Don't make titles links.
+- [Formatting drumkit](http://oldschool.scripting.com/PostMonsterG/2021/11/24.html#a031408) - You can even format code!
 
 ## OPML Rendering
 
