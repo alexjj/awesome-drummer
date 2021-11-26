@@ -42,6 +42,9 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 - [Drummer.this.how](http://scripting.com/drummer/blog/2021/11/06/193821.html?title=drummer.this.how) - Render standalone OPML files.
 - [Two level renderer](https://github.com/andysylvester/drummer-outline-renderers) - A drumkit script and template that can generate standalone page.
 - [Concord Reader](http://scripting.com/code/concordreader/?url=) - Add your opml url to the end, e.g. `http://scripting.com/code/concordreader/?url=http://drummer.scripting.com/sabre23t/otherdrummers.opml`
+- [Instant Outlines demo](http://scripting.com/code/instantoutlinesrepo/demo/index.html?url=)- Add your opml url to the end, e.g `http://scripting.com/code/instantoutlinesrepo/demo/index.html?url=http://drummer.scripting.com/KenSmith/projectOne.opml`
+- [Small Picture Reader](http://scripting.com/code/concord/repo/example2/)
+- [Docserver](http://docserver.scripting.com/?url=) - Add your opml url to the end, e.g  `http://docserver.scripting.com/?url=http://drummer.scripting.com/KenSmith/keyWords.opml`
 
 ## Backups
 
