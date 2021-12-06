@@ -50,6 +50,9 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 ## Troubleshooting
 
 - [How to close a tab with no close box](http://scripting.com/drummer/blog/2021/11/24/142717.html?title=tabWithNoCloseBox) - If Drummer has a problem in opening a tab, this can result in a tab with no close box, or a tab that does not appear to have any content in it. This link provides instructions for several ways to close the tab.
+- [Force a reload of Drummer](http://docserver.scripting.com/drummer/general.opml#1633017426000) - When a problem occurs, one thing to try is to force a reload of the Drummer software. These instructions are for Google Chrome, other browsers are similar.
+- [Look in Javascript console](http://docserver.scripting.com/drummer/general.opml#1631797228000) - When a problem occurs, there may be a Javascript error associated with the problem. These instructions for opening the Javascript console in Developer Tools are for Google Chrome, other browsers are similar. It might be good to open the console and do a reload if there is no obvious problem at opening the console.
+- Extra blank menu items in menu bar - If you see this problem, you may have items in the Scripts menu that are not aligned properly. If this is the case, you should open the Scripts menu to check (see [this page](http://docserver.scripting.com/drummer/scripting.opml#16274901750000) for instructions).
 
 ## Backups
 
