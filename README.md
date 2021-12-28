@@ -8,6 +8,7 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 - [Blogging](#blogging)
 - [Formatting](#formatting)
 - [OPML Rendering](#opml-rendering)
+- [Scripting examples](#scripting-examples)
 - [Troubleshooting](#troubleshooting)
 - [Backups](#backups)
 - [Community](#community)
@@ -46,6 +47,12 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 - [Instant Outlines demo](http://scripting.com/code/instantoutlinesrepo/demo/index.html?url=)- Add your opml url to the end, e.g `http://scripting.com/code/instantoutlinesrepo/demo/index.html?url=http://drummer.scripting.com/KenSmith/projectOne.opml`
 - [Small Picture Reader](http://scripting.com/code/concord/repo/example2/)
 - [Docserver](http://docserver.scripting.com/?url=) - Add your opml url to the end, e.g  `http://docserver.scripting.com/?url=http://drummer.scripting.com/KenSmith/keyWords.opml`
+
+## Scripting examples
+
+- [Drumkit Samples](https://github.com/PostMonsterG/drumkit-samples) - Github repo from Gary Teter with several sample scripts
+- [Open in IAWriter As New File](https://gist.github.com/PostMonsterG/c3cd6f2c4c5df9ca3bc56c0e21920871) - Another Gary Teter sample script
+
 
 ## Troubleshooting
 
