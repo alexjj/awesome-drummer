@@ -52,7 +52,6 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 
 - [Drumkit Samples](https://github.com/PostMonsterG/drumkit-samples) - Github repo from Gary Teter with several sample scripts
 - [Open in IAWriter As New File](https://gist.github.com/PostMonsterG/c3cd6f2c4c5df9ca3bc56c0e21920871) - Another Gary Teter sample script
-- [Roady Scripts Menu](https://github.com/PostMonsterG/Roady) - Roady adds features to Drummer to make it easier to work with GitHub. The key feature is continuous, automatic backup of your Drummer files to GitHub. 
 - [Shared Source OPML File](http://drummer.scripting.com/frankm/sharedSource.opml) - Scripts from Frank McPherson
 - [Shared Source OPML File](http://drummer.scripting.com/AndySylvester99/sharedScripts.opml) - Scripts from Andy Sylvester
 
@@ -67,6 +66,7 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 ## Backups
 
 - [Automating backups](https://github.com/scripting/drummerSupport/issues/63) - a few options for automating opml backups.
+- [Roady Scripts Menu](https://github.com/PostMonsterG/Roady) - Roady adds features to Drummer to make it easier to work with GitHub. The key feature is continuous, automatic backup of your Drummer files to GitHub. 
 
 ## Community
 
