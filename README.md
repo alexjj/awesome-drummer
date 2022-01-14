@@ -32,6 +32,7 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 - [Drummer with Wordpress](http://oldschool.scripting.com/frankmeeuwsen/2021/10/23/065437.html?title=publishToWordpressWithDrummer) - Post to Wordpress via drummer.
 - [Workflow for inserting images](https://github.com/scripting/drummerSupport/issues/83) - a few methods people have employed for streamling image insertion.
 - [Setup custom domain with https](https://rudimentarylathe.wiki/#Using%20a%20custom%20domain%20with%20Drummer) - Steps you need to do for your own domain and SSL. 
+- [Blog from Loqseq journals](https://github.com/scripting/myLogseqBlog) - Write in loqseq and publish with drummer
 
 ## Formatting
 
