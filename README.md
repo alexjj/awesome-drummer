@@ -33,6 +33,7 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 - [Workflow for inserting images](https://github.com/scripting/drummerSupport/issues/83) - a few methods people have employed for streamling image insertion.
 - [Setup custom domain with https](https://wiki.baty.net/#Using%20a%20custom%20domain%20with%20Drummer) - Steps you need to do for your own domain and SSL. 
 - [Blog from Loqseq journals](https://github.com/scripting/myLogseqBlog) - Write in loqseq and publish with drummer
+- [Blogging using Drummer and XSLT](https://antranigv.am/weblog_en/posts/2022/04/opml-xslt-2022/) - Use an XSLT file with your OPML file to create a blog
 
 ## Formatting
 
