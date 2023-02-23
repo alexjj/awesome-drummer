@@ -15,7 +15,7 @@ Drummer is a web scripting environment built around outlining and JavaScript. A 
 
 ## Official
 
-- [Drummer website](http://drummer.scripting.com/) - Where the action happens.
+- [Drummer website](https://drummer.land/) - Where the action happens.
 - [Documentation](http://docserver.scripting.com/drummer/about.opml) - There's lots, worth reading a few times.
 - [Support site](https://github.com/scripting/drummerSupport/) - Submit issues for bugs.
 - [Request for Comment](https://github.com/scripting/drummerRFC) - Platform for discussing new developments that involve drummer.
